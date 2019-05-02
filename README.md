@@ -10,7 +10,7 @@ Java XML transformer is a java library convert any form of XML or sub XML tags t
 **Copy source code:**
 
 ```
-You may simply repackage the sourse code in the 'src' folder into your project
+You may simply repackage the source code in the 'src' folder into your project
 ```
 
 ## Testing
