@@ -2,7 +2,7 @@
 
 Java XML transformer is a java library convert any form of XML or sub XML tags to a java object.
 
-[![Total Downloads](https://poser.pugx.org/ndexondeck/soapbuilder-java/downloads.svg)](https://packagist.org/packages/ndexondeck/lauditor)
+[![Total Downloads](https://poser.pugx.org/ndexondeck/java-xml-transaformer/downloads.svg)](https://packagist.org/packages/ndexondeck/lauditor)
 
 
 ## Installation
