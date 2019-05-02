@@ -1,4 +1,4 @@
-# Java Soap Builder
+# Java XML Transformer
 
 Java XML transformer is a java library convert any form of XML or sub XML tags to a java object.
 
